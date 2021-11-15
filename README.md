@@ -6,4 +6,7 @@
 ### ***[Pull Request .......]()***
 
 ---
-### ***[Code .......]()***
+### ***[Video Games .......](/vg-stats.ipynb)***
+
+---
+### ***[Bike .......](/bike-stats.ipynb)***
